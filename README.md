@@ -11,4 +11,6 @@
 
 ### C#
 
+- Lesson 1 : C# Tutorial - Full Course for Beginners
+
 ### Docker
