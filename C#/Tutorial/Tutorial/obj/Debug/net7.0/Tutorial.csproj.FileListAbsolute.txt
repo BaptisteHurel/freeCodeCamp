@@ -1,0 +1,15 @@
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial.deps.json
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial.runtimeconfig.json
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial.pdb
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.csproj.AssemblyReference.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.AssemblyInfoInputs.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.AssemblyInfo.cs
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.csproj.CoreCompileInputs.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/refint/Tutorial.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.pdb
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial.genruntimeconfig.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/ref/Tutorial.dll

@@ -1,0 +1,15 @@
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.csproj.AssemblyReference.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.AssemblyInfoInputs.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.AssemblyInfo.cs
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.csproj.CoreCompileInputs.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.genruntimeconfig.cache
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial_csharp
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial_csharp.deps.json
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial_csharp.runtimeconfig.json
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial_csharp.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/bin/Debug/net7.0/Tutorial_csharp.pdb
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/refint/Tutorial_csharp.dll
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/Tutorial_csharp.pdb
+/Users/baptistehurel/Documents/AUTRES/Projets Perso/freeCodeCamp/freeCodeCamp/C#/Tutorial/Tutorial/obj/Debug/net7.0/ref/Tutorial_csharp.dll
