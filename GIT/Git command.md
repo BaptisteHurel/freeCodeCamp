@@ -1,4 +1,4 @@
-# Git Commande
+# Git Command
 
 Il y a, l'espace de travail, l'index et le dépot.
 - L'espace de travail correspond au répertoire local du développeur. C'est le dossier du projet ou se situe les fichiers que l'on ajoute, modifie.
